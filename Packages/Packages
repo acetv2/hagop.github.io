@@ -1,0 +1,12 @@
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Hagop <ace.issues@hotmail.com>
+Filename: /ControlPanel.rar
+Size: 3774
+MD5sum: db66de84fc9732c88eace5ec1cf4276c
+SHA1: aff841c49cd4a298130150a2f5c77ff22c1c84ea
+SHA256: 609f117262d16c414dfafe9df38ba72e5b7897a29189321efe0a344ac5b18490
+Section: Tweaks
+Description: Test Tweak
+Author: Hagop <ace.issues@hotmail.com>
+Name: HPTR
