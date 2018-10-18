@@ -3,9 +3,9 @@ Architecture: iphoneos-arm
 Maintainer: Hagop <ace.issues@hotmail.com>
 Filename: ./com.yourcompany.hptr_0.0.1-1+debug_iphoneos-arm.deb
 Size: 3774
-MD5sum: db66de84fc9732c88eace5ec1cf4276c
-SHA1: aff841c49cd4a298130150a2f5c77ff22c1c84ea
-SHA256: 609f117262d16c414dfafe9df38ba72e5b7897a29189321efe0a344ac5b18490
+MD5sum: 38fa6e4b3eaea39b447eb0aaa0a07df2
+SHA1: 1dc4ee8c531c3d6e257d92557462eda7cc92b671
+SHA256: a2cfcf31d72f07080af356bd7d7545563dff36b14677cae62baabe889a710938
 Section: Tweaks
 Description: Test Tweak
 Author: Hagop <ace.issues@hotmail.com>
