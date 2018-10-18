@@ -1,9 +1,0 @@
-Package: com.yourcompany.hptr
-Name: HPTR
-Depends: mobilesubstrate
-Version: 0.0.1
-Architecture: iphoneos-arm
-Description: Hold the power button to respring or reboot
-Maintainer: Hagop
-Author: Hagop
-Section: Tweaks
