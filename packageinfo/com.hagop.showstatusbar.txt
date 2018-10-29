@@ -1,0 +1,9 @@
+{
+	"name": "StatusInApp",
+	"desc_short": "Shows the time and Battery Precentage",
+	"desc_long": "If you are using the Tweak moveable9 and you want to hide time and battery here is an app to check them.<br><br>No Options To Configure.",
+	"compatitle": "iOS 11",
+	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release.<br>",
+	"screenshot": "no screenshot",
+	"open": true,
+}
